@@ -1,5 +1,5 @@
 /**
- * Promise.ALL
+ * Promise.All
  * @param {Array} arr Promise 数组
  * @returns 
  */
