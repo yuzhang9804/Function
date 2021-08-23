@@ -9,4 +9,5 @@
  - [节流](https://github.com/yuzhang9804/Function/blob/main/src/throttle.js)
  - [数组去重](https://github.com/yuzhang9804/Function/blob/main/src/unique.js)
  - [柯里化](https://github.com/yuzhang9804/Function/blob/main/src/curry.js)
- 
+ - [new](https://github.com/yuzhang9804/Function/blob/main/src/new.js)
+ - [深拷贝](https://github.com/yuzhang9804/Function/blob/main/src/deepCopy.js)
