@@ -1,9 +1,9 @@
 /**
  * 快速排序
+ * 时间复杂度：O(nlogn)
  */
 
 /**
- * 
  * @param {Array} arr 
  */
 const quickSort = arr => {
