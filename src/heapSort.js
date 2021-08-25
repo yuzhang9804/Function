@@ -18,6 +18,8 @@ const heapSort = arr => {
     maxHeapify(arr, i, heapSize)
   }
 
+  console.log(arr);
+
   /** 排序 */
   for (let i = len - 1; i > 0; i--) {
     swap(arr, 0, i)
@@ -45,7 +47,7 @@ function maxHeapify(arr, i, heapSize) {
 
   /** 交换节点 */
   if (largest !== i) {
-    [arr[i], arr[largest]] = [arr[largest], arr[i]]
+    swap(arr, largest, i)
     maxHeapify(arr, largest, heapSize)
   }
 }
