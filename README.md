@@ -17,5 +17,5 @@
 - [插入排序](https://github.com/yuzhang9804/Function/blob/main/src/insertSort.js)
 - [选择排序](https://github.com/yuzhang9804/Function/blob/main/src/selectSort.js)
 - [归并排序](https://github.com/yuzhang9804/Function/blob/main/src/mergeSort.js)
-- [插入排序](https://github.com/yuzhang9804/Function/blob/main/src/insertSort.js)
-- [堆排序](https://github.com/yuzhang9804/Function/blob/main/src/heapSort.js)
+- [快速排序](https://github.com/yuzhang9804/Function/blob/main/src/quickSort.js)
+-  [堆排序](https://github.com/yuzhang9804/Function/blob/main/src/heapSort.js)
